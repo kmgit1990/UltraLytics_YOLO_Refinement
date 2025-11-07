@@ -5,14 +5,14 @@ Understood. Here’s a properly formatted plain-text README with bold headings a
 **Ultralytics.YOLO - Enhanced Object Detection & Segmentation**
 
 **About Ultralytics.YOLO:**
-In this project I made use of Ultralytics YOLO modal and made some improvments in **object detection** and **instance segmentation**. Modifications include **custom training scripts**, **optimized pipelines**, and **improved dataset handling** for better real-world performance.
+In this project I made use of Ultralytics YOLO modal and made some improvements in **object detection** and **instance segmentation**. Modifications include **custom training scripts**, **optimized pipelines**, and **improved dataset handling** for better real-world performance.
 
 It is designed for **speed**, **accuracy**, and **flexibility**, suitable for:
 
-* **Object Detection**
-* **Instance Segmentation**
-* **Pose Estimation**
-* **Image Classification**
+- **Object Detection**
+- **Instance Segmentation**
+- **Pose Estimation**
+- **Image Classification**
 
 this project focuses on **custom improvements** and **performance optimizations**.
 
@@ -62,25 +62,24 @@ results[0].show()
 **Models:**
 **Ultralytics.YOLO** includes modified YOLO11 models:
 
-* **YOLO11n-mine**: Detection, optimized for speed on small datasets
-* **YOLO11s-mine**: Segmentation, enhanced mask accuracy
-* **YOLO11m-mine**: Detection, balanced speed and accuracy
+- **YOLO11n-mine**: Detection, optimized for speed on small datasets
+- **YOLO11s-mine**: Segmentation, enhanced mask accuracy
+- **YOLO11m-mine**: Detection, balanced speed and accuracy
 
 All models can be trained on **custom datasets**.
 
 **Integrations:**
 Supports integrations with popular tools for training and experiment tracking:
 
-* **Weights & Biases**
-* **Roboflow**
-* **Comet ML**
+- **Weights & Biases**
+- **Roboflow**
+- **Comet ML**
 
 **Contributions:**
 Contributions are welcome. Open **GitHub Issues** or **Pull Requests** for bug reports, feature suggestions, or improvements.
 
 **License:**
 Licensed under **AGPL-3.0**.
-
 
 ---
 
